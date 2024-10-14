@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-image: url(Central-Park-New-York-City.webp);
+    background-position: center;
+    background-size: cover;
+}
+#clock-container{
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+#clock{
+    font-family: monospace;
+    font-size:6.5rem ;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    width: 100%;
+    
+}
